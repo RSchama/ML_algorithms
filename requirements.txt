@@ -4,5 +4,7 @@ seaborn
 pandas
 sklearn
 scipy
+networkx
+graphviz
 math
 datetime
